@@ -1,3 +1,6 @@
 [submodule "newFrontendIs"]
 	path = newFrontendIs
 	url = https://github.com/AzariasMacuare/My-Website
+[submodule "My-Website"]
+	path = My-Website
+	url = ./My-Website/
